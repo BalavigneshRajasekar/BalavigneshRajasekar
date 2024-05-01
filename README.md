@@ -5,7 +5,7 @@
 <li>💬I have 2 year's Exp in software Testing But now want to be a Developer</li>
 <li>🤔 I'm Looking for Entry level Front End or Backend Developer Role</li>
 <li>🌱 I’m currently learning DSA</li>
-<li>⚡ Familiar with Angular and Node</li>
+<li>⚡ Familiar with Angular,React and Node</li>
 <li>📫 How to reach me :</li>
 
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bala-vignesh-r-a97670226/) [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/918825559375)
